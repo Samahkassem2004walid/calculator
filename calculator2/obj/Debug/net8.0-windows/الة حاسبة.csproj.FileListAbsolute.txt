@@ -1,0 +1,20 @@
+C:\Users\LENOVO\source\repos\الة حاسبة\bin\Debug\net8.0-windows\الة حاسبة.exe
+C:\Users\LENOVO\source\repos\الة حاسبة\bin\Debug\net8.0-windows\الة حاسبة.deps.json
+C:\Users\LENOVO\source\repos\الة حاسبة\bin\Debug\net8.0-windows\الة حاسبة.runtimeconfig.json
+C:\Users\LENOVO\source\repos\الة حاسبة\bin\Debug\net8.0-windows\الة حاسبة.dll
+C:\Users\LENOVO\source\repos\الة حاسبة\bin\Debug\net8.0-windows\الة حاسبة.pdb
+C:\Users\LENOVO\source\repos\الة حاسبة\obj\Debug\net8.0-windows\الة_حاسبة.Form1.resources
+C:\Users\LENOVO\source\repos\الة حاسبة\obj\Debug\net8.0-windows\الة حاسبة.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\الة حاسبة\obj\Debug\net8.0-windows\الة حاسبة.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\الة حاسبة\obj\Debug\net8.0-windows\الة حاسبة.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\الة حاسبة\obj\Debug\net8.0-windows\الة حاسبة.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\الة حاسبة\obj\Debug\net8.0-windows\الة حاسبة.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\الة حاسبة\obj\Debug\net8.0-windows\الة حاسبة.dll
+C:\Users\LENOVO\source\repos\الة حاسبة\obj\Debug\net8.0-windows\refint\الة حاسبة.dll
+C:\Users\LENOVO\source\repos\الة حاسبة\obj\Debug\net8.0-windows\الة حاسبة.pdb
+C:\Users\LENOVO\source\repos\الة حاسبة\obj\Debug\net8.0-windows\الة حاسبة.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\الة حاسبة\obj\Debug\net8.0-windows\ref\الة حاسبة.dll
+C:\Users\LENOVO\source\repos\الة حاسبة\bin\Debug\net8.0-windows\Antlr4.Runtime.Standard.dll
+C:\Users\LENOVO\source\repos\الة حاسبة\bin\Debug\net8.0-windows\NCalc.dll
+C:\Users\LENOVO\source\repos\الة حاسبة\obj\Debug\net8.0-windows\الة حاسبة.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\الة حاسبة\obj\Debug\net8.0-windows\الة حاسبة.csproj.Up2Date

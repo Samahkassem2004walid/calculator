@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fivUTc0zmPdJFtBTMnNtp3z1r7ZS+TBXqCWbmPsxZcFR43hU2Nk18MuLlVvMYK+nY10UUMRA/DI9jagW9C5RvQ==",
+  "success": true,
+  "projectFilePath": "C:\\calculator2\\cal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\coreclr-ncalc\\3.1.241\\coreclr-ncalc.3.1.241.nupkg.sha512"
+  ],
+  "logs": []
+}
